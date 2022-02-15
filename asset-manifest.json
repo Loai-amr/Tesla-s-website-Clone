@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Loaiamr-ux/Tesla-s-website-Clone.git/static/css/main.2cf9fda0.chunk.css",
+    "main.js": "/Loaiamr-ux/Tesla-s-website-Clone.git/static/js/main.e7d3e564.chunk.js",
+    "main.js.map": "/Loaiamr-ux/Tesla-s-website-Clone.git/static/js/main.e7d3e564.chunk.js.map",
+    "runtime-main.js": "/Loaiamr-ux/Tesla-s-website-Clone.git/static/js/runtime-main.446f22c9.js",
+    "runtime-main.js.map": "/Loaiamr-ux/Tesla-s-website-Clone.git/static/js/runtime-main.446f22c9.js.map",
+    "static/js/2.0110745b.chunk.js": "/Loaiamr-ux/Tesla-s-website-Clone.git/static/js/2.0110745b.chunk.js",
+    "static/js/2.0110745b.chunk.js.map": "/Loaiamr-ux/Tesla-s-website-Clone.git/static/js/2.0110745b.chunk.js.map",
+    "index.html": "/Loaiamr-ux/Tesla-s-website-Clone.git/index.html",
+    "static/css/main.2cf9fda0.chunk.css.map": "/Loaiamr-ux/Tesla-s-website-Clone.git/static/css/main.2cf9fda0.chunk.css.map",
+    "static/js/2.0110745b.chunk.js.LICENSE.txt": "/Loaiamr-ux/Tesla-s-website-Clone.git/static/js/2.0110745b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.446f22c9.js",
+    "static/js/2.0110745b.chunk.js",
+    "static/css/main.2cf9fda0.chunk.css",
+    "static/js/main.e7d3e564.chunk.js"
+  ]
+}
